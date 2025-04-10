@@ -1,7 +1,7 @@
 # Jarvis AI
 
 **Jarvis AI** is a full-stack chatbot application designed to assist users in various tasks. It leverages cutting-edge technologies,
-including the OpenAI API, React.js, Python, Flask, and PostgreSQL, to deliver a seamless user experience and Jarvis behavior for fun :)
+including the OpenAI API, React.js, Python, Flask, and PostgreSQL, to deliver a seamless user experience and Jarvis behavior for fun
 
 ## Features
 
